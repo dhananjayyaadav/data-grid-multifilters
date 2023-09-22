@@ -9,9 +9,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dhananjayyaadav/data-grid-multifilters.git"
+    "url": "git+https://https://github.com/adazzle/react-data-grid.git"
   },
-  "bugs": "https://github.com/dhananjayyaadav/data-grid-multifilters/issues",
+  "bugs": "https://github.com/adazzle/react-data-grid/issues",
   "type": "module",
   "exports": {
     "./lib/styles.css": "./lib/styles.css",
