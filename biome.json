@@ -1,5 +1,4 @@
-@@ -23,144 +23,160 @@
-    "rules": {
+     "rules": {
       "recommended": false,
       "a11y": {
         "noAccessKey": "error",
